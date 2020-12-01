@@ -14,7 +14,7 @@ https://soundcloud.com/nicodaleman/sets/brainwave-etudes
 - Clone the respository
 - Compile the .dsp file to your prefered target
 - Run the oschub.py file from the terminal
-      - choose your .csv file
-      - press start
+  - choose your .csv file
+  - press start
 
 <img src = "OSCGUI.png" width= "500">
